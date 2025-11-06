@@ -111,9 +111,9 @@ Submission
 
 ## 📫 Contact
 
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **LinkedIn**: [Your Name](https://linkedin.com/in/yourprofile)
-- **Email**: your.email@example.com
+- **GitHub**: [@eljamani94](https://github.com/eljamani94)
+- **LinkedIn**: [aymen-eljamani](https://linkedin.com/in/aymen-eljamani)
+- **Email**: eljamani.aej@gmail.com
 
 ## 📄 License
 
