@@ -34,7 +34,7 @@ A comprehensive machine learning solution for predicting residential home sale p
 | Random Forest | 0.1628 | Solid tree-based performance |
 | Gradient Boosting | 0.1270 | Strong boosting performance |
 | XGBoost | 0.1474 | With early stopping |
-| **Stacking Regressor** | **0.1199** | **Best overall performance** |
+| **Stacking Regressor** | **0.12336** | **Best overall performance** |
 
 ## 🛠️ Technical Stack
 
